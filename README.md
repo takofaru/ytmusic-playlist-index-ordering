@@ -1,5 +1,5 @@
 # Youtube Music Playlist Index Ordering
-A userscript to add the ability order song based on index, like how Steam did on the wishlist page.
+A userscript to add the ability order song based on index, like how Steam does on the wishlist page.
 
 # Why?
 Why not? It's easier when you have many songs in one playlist
